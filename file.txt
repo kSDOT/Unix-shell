@@ -1,0 +1,14 @@
+a.out
+Desktop
+Documents
+Downloads
+file.txt
+linux-5.3.1.tar.xz
+Music
+Pictures
+Public
+snap
+Templates
+test.txt
+userspace.c
+Videos
